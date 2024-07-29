@@ -1,0 +1,280 @@
+{
+  "users": [
+    {
+      "id": "c5df",
+      "name": "musab",
+      "email": "musab@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "9bbd",
+      "name": "mohmed",
+      "email": "mhmed@gmail.com",
+      "pass": "3334455"
+    },
+    {
+      "id": "48e1",
+      "name": "musab",
+      "email": "musab11@gmail.com",
+      "pass": "123456789"
+    },
+    {
+      "id": "0574",
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "pass": "009988"
+    },
+    {
+      "id": "eee0",
+      "name": "musab",
+      "email": "musab333@gmail.com",
+      "pass": "333"
+    },
+    {
+      "id": "b616",
+      "name": "one",
+      "email": "one@gmail.com",
+      "pass": "44556677"
+    },
+    {
+      "id": "dfe7",
+      "name": "one",
+      "email": "one@gmail.com",
+      "pass": "44556677"
+    },
+    {
+      "id": "9a8a",
+      "name": "musab",
+      "email": "musab@gmail.com",
+      "pass": "12345"
+    },
+    {
+      "id": "840b",
+      "name": "testone",
+      "email": "testone@gmail.com",
+      "pass": "009988"
+    },
+    {
+      "id": "b1ba",
+      "name": "testone",
+      "email": "testone@gmail.com",
+      "pass": "009988"
+    },
+    {
+      "id": "5ffa",
+      "name": "Adam",
+      "email": "adam@gmil.com",
+      "pass": "998877"
+    },
+    {
+      "id": "07ac",
+      "name": "sam",
+      "email": "sam@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "342c",
+      "name": "homeee",
+      "email": "homm@gmail.com",
+      "pass": "7766543"
+    }
+  ],
+  "locations": [
+    {
+      "id": "b138",
+      "name": "musab",
+      "phone": "1234567890",
+      "address": "dubai",
+      "userid": ""
+    },
+    {
+      "id": "538a",
+      "name": "musab",
+      "phone": "1234567890",
+      "address": "dubai",
+      "userid": ""
+    },
+    {
+      "id": "16cd",
+      "name": "ali",
+      "phone": "0987654321",
+      "address": "test",
+      "userid": ""
+    },
+    {
+      "id": "8a4e",
+      "name": "ali",
+      "phone": "09876543211",
+      "address": "dubi",
+      "userid": ""
+    },
+    {
+      "id": "ee7c",
+      "name": "musab",
+      "phone": "0920725088",
+      "address": "dubai",
+      "userid": ""
+    },
+    {
+      "id": "8f3a",
+      "name": "last test",
+      "phone": "0920725088",
+      "address": "dubai",
+      "userid": "840b"
+    },
+    {
+      "id": "a9db",
+      "name": "osman",
+      "phone": "0987654321",
+      "address": "omdurman",
+      "userid": "840b"
+    },
+    {
+      "id": "dcb7",
+      "name": "osman",
+      "phone": "0987654321",
+      "address": "one",
+      "userid": "840b"
+    },
+    {
+      "id": "05eb",
+      "name": "zoon",
+      "phone": "0000000000000000000",
+      "address": "zoon",
+      "userid": "840b"
+    },
+    {
+      "id": "3f23",
+      "name": "mohammed",
+      "phone": "9864539270",
+      "address": "dubai",
+      "userid": "342c"
+    },
+    {
+      "id": "742e",
+      "name": "chico",
+      "phone": "453628292928",
+      "address": "madai",
+      "userid": "342c"
+    },
+    {
+      "id": "4302",
+      "name": "Adnan",
+      "phone": "093735342628",
+      "address": "omdrman",
+      "userid": "342c"
+    },
+    {
+      "name": "shamsabdallah",
+      "phone": "0975426r43",
+      "address": "omderrr",
+      "locationid": "1ccd",
+      "id": "1ccd"
+    },
+    {
+      "name": "musabAA",
+      "phone": "9883543568",
+      "address": "dubai",
+      "locationid": "bac7",
+      "id": "bac7"
+    },
+    {
+      "id": "1f8f",
+      "name": "codeing",
+      "phone": "35283938375",
+      "address": "dubai"
+    },
+    {
+      "id": "c394",
+      "name": "phone Test",
+      "phone": "0920725088",
+      "address": "Dubai"
+    }
+  ],
+  "Categories": [
+    {
+      "id": "9b14",
+      "name": "Categories ",
+      "locationid": "d310"
+    },
+    {
+      "id": "7c2b",
+      "name": "KFC RES",
+      "userid": "",
+      "locationid": "f3e4"
+    },
+    {
+      "id": "6049",
+      "name": "user id",
+      "userid": "",
+      "locationid": "f3e4"
+    },
+    {
+      "id": "0f82",
+      "name": "cat 1",
+      "locationid": "d310"
+    },
+    {
+      "id": "59b8",
+      "name": "cat 2",
+      "locationid": "d310"
+    },
+    {
+      "name": "cat333",
+      "locationid": "f3e4",
+      "id": "a98a"
+    },
+    {
+      "name": "cat44",
+      "locationid": "f3e4",
+      "id": "1ee7"
+    },
+    {
+      "id": "5995",
+      "name": "dinner3",
+      "locationid": "bac7"
+    },
+    {
+      "name": "CAT3333",
+      "locationid": "1ccd",
+      "id": "a711"
+    },
+    {
+      "id": "4c6f",
+      "name": "hella1",
+      "locationid": "1f8f"
+    },
+    {
+      "id": "c941",
+      "name": "hall2",
+      "locationid": "1f8f"
+    },
+    {
+      "id": "5a43",
+      "name": "hall3",
+      "locationid": "1f8f"
+    },
+    {
+      "id": "8c6e",
+      "name": "done",
+      "locationid": "c394"
+    }
+  ],
+  "items": [
+    {
+      "id": "a63d",
+      "name": "last touna ",
+      "price": 40,
+      "discription": "this is last touna",
+      "qty": 1000,
+      "locationid": "1ccd"
+    },
+    {
+      "id": "f8c5",
+      "name": "for test",
+      "price": 20,
+      "discription": "dsghjkznm/;",
+      "qty": 100
+    }
+  ]
+}
